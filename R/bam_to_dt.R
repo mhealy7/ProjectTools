@@ -1,6 +1,8 @@
 #' @import Rsamtools
 #' @import taxize
 #' @import data.table
+#' @importFrom data.table ":="
+NULL
 
 
 
