@@ -1,10 +1,6 @@
 #' @import Rsamtools
-#' @import taxize
 #' @import data.table
-#' @importFrom data.table ":="
-NULL
-
-
+#' @import usethis
 
 bam_to_dt <- function(bamfile) {
   table <- data.table()

@@ -1,5 +1,3 @@
-library(Rsamtools)
-if (!require("BiocManager", quietly = TRUE))
-  install.packages("BiocManager")
+bam <- "R/test.bam"
 
-BiocManager::install("Rsamtools")
+dt <- bam_to_dt(bam)
