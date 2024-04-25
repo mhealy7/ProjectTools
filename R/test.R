@@ -1,3 +1,3 @@
-bam <- "R/test.bam"
+#bam <- "R/test.bam"
 
-dt <- bam_to_dt(bam)
+#dt <- bam_to_dt(bam)
