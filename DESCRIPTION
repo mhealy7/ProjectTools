@@ -10,9 +10,9 @@ License: What license is it under?
 Encoding: UTF-8
 LazyData: true
 Imports:
-  usethis
-RoxygenNote: 7.3.1
-Depends:
+  usethis,
   data.table,
   Rsamtools
+RoxygenNote: 7.3.1
+
 
